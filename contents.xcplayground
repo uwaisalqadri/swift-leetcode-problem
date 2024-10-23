@@ -6,5 +6,6 @@
         <page name='Remove Element'/>
         <page name='Search Insert'/>
         <page name='Plus One'/>
+        <page name='Merge Sorted'/>
     </pages>
 </playground>
